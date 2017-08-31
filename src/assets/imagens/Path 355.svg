@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2194.079 1117.089 1346.197 761.474">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #95989a;
+      }
+
+      .cls-2 {
+        filter: url(#Path_355);
+      }
+    </style>
+    <filter id="Path_355" x="2194.079" y="1117.089" width="1346.197" height="761.474" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Path_355-2" data-name="Path 355" class="cls-1" d="M2257.134,141.43c2.435-2.516,7.105-2.841,7.105-2.841h254.939s9.005.058,14.006,2.654a12.034,12.034,0,0,1,6,7.728v57.915h818.594V881.063H2254.5l-223.906-7.617,20.707-666.56h203.2V148.651S2254.7,143.945,2257.134,141.43Z" transform="translate(173 985)"/>
+  </g>
+</svg>
